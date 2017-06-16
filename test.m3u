@@ -1,21 +1,21 @@
 ﻿#EXTM3U
 #EXTINF:0,1+1
 http://212.79.122.11:8888/udp/239.255.6.13:1234
-#EXTINF:0,Новий Канал
+#EXTINF:0,Новый канал
 http://178.165.79.37:34040/udp/239.2.1.13:1234
-#EXTINF:0,112 УКРАИНА HD
+#EXTINF:0,112 Украина
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:0,2+2
 http://212.79.122.11:8888/udp/239.255.6.39:1234
-#EXTINF:0,5 канал UA
+#EXTINF:0,5 канал (укр.)
 http://91.196.149.76/5channel/stream.m3u8
-#EXTINF:0,Bigudi
+#EXTINF:0,Бигуди
 http://212.79.122.11:8888/udp/239.255.6.9:1234
 #EXTINF:0,Business
 http://212.79.122.11:8888/udp/239.255.6.15:1234
-#EXTINF:0,DACHA
+#EXTINF:0,Дача
 http://212.79.122.11:8888/udp/239.255.6.51:1234
-#EXTINF:0,Enter Film
+#EXTINF:0,Enter-фильм
 http://212.79.122.11:8888/udp/239.255.6.66:1234
 #EXTINF:0,Epoque
 http://212.79.122.11:8888/udp/239.255.6.52:1234
@@ -23,19 +23,19 @@ http://212.79.122.11:8888/udp/239.255.6.52:1234
 http://212.79.122.11:8888/udp/239.255.6.45:1234
 #EXTINF:0,ICTV
 http://live.ictv.ua/hls/ICTV.m3u8
-#EXTINF:0,Inter
+#EXTINF:0,Інтер (укр.)
 http://212.79.122.11:8888/udp/239.255.6.43:1234
-#EXTINF:0,IНТЕР+
+#EXTINF:0,Інтер+ (укр.)
 http://5.53.18.10:81/udp/239.72.6.123:1234
-#EXTINF:0,K1
+#EXTINF:0,К1
 http://212.79.122.11:8888/udp/239.255.6.62:1234
-#EXTINF:0,KIEV STB
+#EXTINF:0,СТБ
 http://212.79.122.11:8888/udp/239.255.6.18:1234
-#EXTINF:0,M1
+#EXTINF:0,М1
 http://212.79.122.11:8888/udp/239.255.6.19:1234
-#EXTINF:0,M2
+#EXTINF:0,М2
 http://212.79.122.11:8888/udp/239.255.6.25:1234
-#EXTINF:0,MEGA
+#EXTINF:0,Мега
 http://212.79.122.11:8888/udp/239.255.6.61:1234
 #EXTINF:0,News One
 http://212.79.122.11:8888/udp/239.255.6.27:1234
@@ -43,23 +43,23 @@ http://212.79.122.11:8888/udp/239.255.6.27:1234
 http://212.79.122.11:8888/udp/239.255.6.47:1234
 #EXTINF:0,RADA
 http://212.79.122.11:8888/udp/239.255.6.59:1234
-#EXTINF:0,SONCE (UA)
+#EXTINF:0,Сонце
 http://212.79.122.11:8888/udp/239.255.6.36:1234
-#EXTINF:0,TET
+#EXTINF:0,ТЕТ
 http://212.79.122.11:8888/udp/239.255.6.40:1234
-#EXTINF:0,Tonis HD
+#EXTINF:0,Тонис
 http://212.79.122.11:8888/udp/239.255.6.24:1234
-#EXTINF:0,UKRAINA-SD
+#EXTINF:0,Україна (укр.)
 http://212.79.122.11:8888/udp/239.255.6.58:1234
-#EXTINF:0,Unian TV
+#EXTINF:0,Униан ТВ
 http://212.79.122.11:8888/udp/239.255.6.4:1234
-#EXTINF:0,ZOOM
+#EXTINF:0,Zoom
 http://212.79.122.11:8888/udp/239.255.6.64:1234
-#EXTINF:0,Громадське
+#EXTINF:0,Громадське (на укр.)
 http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
-#EXTINF:0,Еко
+#EXTINF:0,Эко-ТВ
 http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
-#EXTINF:0,Еспресо
+#EXTINF:0,Еспресо TV
 http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 #EXTINF:0,К2
 http://178.165.79.37:34040/udp/239.2.1.03:1234
@@ -69,11 +69,11 @@ http://91.196.149.76/krt/stream.m3u8
 http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
 #EXTINF:0,НТН
 http://109.68.40.67/life/ntn.m3u8
-#EXTINF:0,Надiя
+#EXTINF:0,Надія (укр.)
 http://stream.hope.ua/hopeua/live_1/playlist.m3u8
 #EXTINF:0,Первый деловой
 http://94.158.80.101:8080/firstbuisness/stream.m3u8
-#EXTINF:0,Перший
+#EXTINF:0,UA:Перший (укр.)
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 #EXTINF:0,ЧП.INFO
 http://91.196.149.76/chepeinfo/stream.m3u8
