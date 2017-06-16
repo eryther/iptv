@@ -1,259 +1,79 @@
-#EXTM3U
+п»ї#EXTM3U
 #EXTINF:0,1+1
 http://212.79.122.11:8888/udp/239.255.6.13:1234
-#EXTINF:0,112
+#EXTINF:0,РќРѕРІРёР№ РљР°РЅР°Р»
 http://178.165.79.37:34040/udp/239.2.1.13:1234
-#EXTINF:0,112 UA
-http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
-#EXTINF:0,112 UA
-http://app.live.112.events/hls/112hd_mid/index.m3u8
-#EXTINF:0,112 УКРАИНА HD
+#EXTINF:0,112 РЈРљР РђРРќРђ HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:0,2+2
-http://play.lanet.tv/live/9016.m3u8
-#EXTINF:0,2+2
 http://212.79.122.11:8888/udp/239.255.6.39:1234
-#EXTINF:0,5 канал
-http://91.235.144.119:3030/udp/238.1.1.22:1234
-#EXTINF:0,5 канал
-http://37.194.139.12:81/udp/239.1.10.3:1234
-#EXTINF:0,5 канал
-http://217.25.226.215:4022/udp/235.1.10.5:10000
-#EXTINF:0,5 канал
-http://5.19.143.84:7781/udp/235.10.10.12:1234
-#EXTINF:0,5 канал
-http://hls.novotelecom.ru/streaming/5kanal/tvrec/playlist.m3u8
-#EXTINF:0,5 канал
-http://79.165.102.218:4022/udp/239.255.2.28:1234
-#EXTINF:0,5 канал
-http://151.237.173.116:4022/udp/239.45.0.36:1234
-#EXTINF:0,5 канал
-http://31.44.7.8:4022/udp/239.192.0.75:8000
-#EXTINF:0,5 канал
-http://85.234.0.38:4020/udp/239.195.32.14:1234
-#EXTINF:0,5 канал
-http://84.22.153.203:4022/udp/239.192.14.1:1234
-#EXTINF:0,5 канал
-http://31.44.7.8:4022/udp/239.192.0.75:8000
-#EXTINF:0,5 канал
-http://85.234.0.38:4020/udp/239.195.32.14:1234
-#EXTINF:0,5 канал UA
+#EXTINF:0,5 РєР°РЅР°Р» UA
 http://91.196.149.76/5channel/stream.m3u8
-#EXTINF:0,5 канал UA
-http://94.158.80.101:8080/5channel/stream.m3u8
-#EXTINF:0,5 канал UA
-http://play.lanet.tv/live/9014.m3u8
-#EXTINF:0,ATR
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:0,ATR
-http://212.79.122.11:8888/udp/239.255.6.31:1234
-#EXTINF:0,ATR
-http://stream.atr.ua/atr/live/index.m3u8
 #EXTINF:0,Bigudi
 http://212.79.122.11:8888/udp/239.255.6.9:1234
 #EXTINF:0,Business
-http://193.239.153.245:1935/business/myStream1/playlist.m3u8
-#EXTINF:0,Business
 http://212.79.122.11:8888/udp/239.255.6.15:1234
-#EXTINF:0,CN
-http://212.232.38.209:81/udp/239.2.100.159:4321
 #EXTINF:0,DACHA
 http://212.79.122.11:8888/udp/239.255.6.51:1234
-#EXTINF:0,Deutsche Welle
-http://94.251.120.43:81/udp/239.54.5.119:1234
-#EXTINF:0,Eko TV
-http://212.79.122.11:8888/udp/239.255.6.16:1234
-#EXTINF:0,English Club TV
-http://178.163.31.100:81/udp/234.0.0.174:2000
-#EXTINF:0,English Club TV
-http://178.163.41.30:4022/udp/234.0.0.174:2000
 #EXTINF:0,Enter Film
 http://212.79.122.11:8888/udp/239.255.6.66:1234
 #EXTINF:0,Epoque
 http://212.79.122.11:8888/udp/239.255.6.52:1234
-#EXTINF:0,Espreso TV
-http://212.79.122.11:8888/udp/239.255.6.68:1234
-#EXTINF:0,EspressoTV HD
-http://play.lanet.tv/live/1002.m3u8
-#EXTINF:0,Euronews
-http://5.189.4.16:81//udp/239.255.2.178:1234
-#EXTINF:0,Euronews
-http://95.24.113.138:34040/udp/233.33.210.160:5050
-#EXTINF:0,Euronews
-http://46.48.5.93:81//udp/239.255.2.178:1234
-#EXTINF:0,Euronews
-http://94.251.120.43:81/udp/239.54.5.149:1224
-#EXTINF:0,Euronews
-http://5.189.0.6:4022//udp/239.255.2.178:1234
-#EXTINF:0,Euronews
-http://128.73.95.62:4022/udp/233.33.210.160:5050
-#EXTINF:0,Euronews
-http://95.26.192.157:4000/udp/233.33.210.160:5050
-#EXTINF:0,Euronews
-http://37.9.146.240:4022/udp/232.0.2.29:1234
-#EXTINF:0,Euronews
-http://212.79.122.11:8888/udp/239.255.6.42:1234
-#EXTINF:0,Euronews
-http://83.246.199.70:4022/udp/239.54.5.149:1224
-#EXTINF:0,Euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
-#EXTINF:0,Euronews
-http://185.162.141.69:9008/euronews
-#EXTINF:0,Euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:0,Euronews
-rtsp://mvideo.tut.by/tv/c485d2ed5cc4ce64fcccca710c7a0bb79_Android.sdp
-#EXTINF:0,Euronews
-http://185.162.141.69:9008/euronews
-#EXTINF:0,Euronews
-http://151.237.173.116:4022/udp/239.45.2.15:1234
-#EXTINF:0,Euronews
-http://95.28.79.213:34040/udp/233.33.210.160:5050
-#EXTINF:0,Euronews
-http://213.178.48.91:4022/udp/232.0.2.29:1234
-#EXTINF:0,Euronews
-http://78.107.250.103:4000/udp/233.33.210.160:5050
-#EXTINF:0,Euronews
-http://37.194.19.150:81/udp/239.1.1.5:1234
-#EXTINF:0,Euronews
-http://95.26.44.184:34040/udp/233.33.210.160:5050
-#EXTINF:0,France24
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
-#EXTINF:0,France24
-rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/59_110.sdp
-#EXTINF:0,France24
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
-#EXTINF:0,France24
-http://5.189.4.16:81//udp/239.255.2.161:1234
-#EXTINF:0,France24
-http://46.48.5.93:81//udp/239.255.2.161:1234
-#EXTINF:0,France24
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
-#EXTINF:0,France24
-http://37.9.146.240:4022/udp/232.0.1.63:1235
-#EXTINF:0,France24
-http://94.251.120.43:81/udp/239.54.5.120:1234
 #EXTINF:0,GLAS
 http://212.79.122.11:8888/udp/239.255.6.45:1234
-#EXTINF:0,ICTV
-http://212.79.122.11:8888/udp/239.255.6.60:1234
 #EXTINF:0,ICTV
 http://live.ictv.ua/hls/ICTV.m3u8
 #EXTINF:0,Inter
 http://212.79.122.11:8888/udp/239.255.6.43:1234
-#EXTINF:0,IНТЕР+
+#EXTINF:0,IРќРўР•Р +
 http://5.53.18.10:81/udp/239.72.6.123:1234
 #EXTINF:0,K1
 http://212.79.122.11:8888/udp/239.255.6.62:1234
 #EXTINF:0,KIEV STB
 http://212.79.122.11:8888/udp/239.255.6.18:1234
-#EXTINF:0,KRATU
-http://193.107.128.8:8552/play/a008
-#EXTINF:0,KRT
-http://212.79.122.11:8888/udp/239.255.6.33:1234
-#EXTINF:0,LALE
-http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:0,M1
 http://212.79.122.11:8888/udp/239.255.6.19:1234
 #EXTINF:0,M2
 http://212.79.122.11:8888/udp/239.255.6.25:1234
-#EXTINF:0,MAXXI TV
-http://212.79.122.11:8888/udp/239.255.6.67:1234
 #EXTINF:0,MEGA
 http://212.79.122.11:8888/udp/239.255.6.61:1234
-#EXTINF:0,MusicBox UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8
 #EXTINF:0,News One
 http://212.79.122.11:8888/udp/239.255.6.27:1234
-#EXTINF:0,NOVY CHANNEL
-http://212.79.122.11:8888/udp/239.255.6.21:1234
-#EXTINF:0,NTN
-http://212.79.122.11:8888/udp/239.255.6.11:1234
-#EXTINF:0,OTV
-http://91.196.149.76/otv/stream.m3u8
-#EXTINF:0,OTV
-http://94.158.80.101:8080/otv/stream.m3u8
-#EXTINF:0,OTV
-http://212.26.146.148/hls/otv.m3u8
-#EXTINF:0,PRO BCE
-http://212.79.122.11:8888/udp/239.255.6.49:1234
 #EXTINF:0,QTV
-http://212.79.122.11:8888/udp/239.255.6.47:1234
-#EXTINF:0,Qtv
 http://212.79.122.11:8888/udp/239.255.6.47:1234
 #EXTINF:0,RADA
 http://212.79.122.11:8888/udp/239.255.6.59:1234
-#EXTINF:0,RTi
-http://212.79.122.11:8888/udp/239.255.6.34:1234
-#EXTINF:0,RTI
-http://212.79.122.11:8888/udp/239.255.6.34:1234
-#EXTINF:0,RTI HD
-http://cdn.vsnw.net:8081/interradio/720i.m3u8
 #EXTINF:0,SONCE (UA)
 http://212.79.122.11:8888/udp/239.255.6.36:1234
 #EXTINF:0,TET
 http://212.79.122.11:8888/udp/239.255.6.40:1234
-#EXTINF:0,Tonis
-http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
 #EXTINF:0,Tonis HD
 http://212.79.122.11:8888/udp/239.255.6.24:1234
-#EXTINF:0,UA tv
-http://vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8
 #EXTINF:0,UKRAINA-SD
 http://212.79.122.11:8888/udp/239.255.6.58:1234
 #EXTINF:0,Unian TV
 http://212.79.122.11:8888/udp/239.255.6.4:1234
 #EXTINF:0,ZOOM
 http://212.79.122.11:8888/udp/239.255.6.64:1234
-#EXTINF:0,Бигуди
-http://178.158.189.45:4323/pack1/12/210
-#EXTINF:0,Громадське
+#EXTINF:0,Р“СЂРѕРјР°РґСЃСЊРєРµ
 http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
-#EXTINF:0,Дача
-http://94.158.80.101:8080/gamma/stream.m3u8
-#EXTINF:0,Дача
-http://91.196.149.76/gamma/stream.m3u8
-#EXTINF:0,Дача
-http://178.165.79.37:34040/udp/239.2.1.17:1234
-#EXTINF:0,Еко
+#EXTINF:0,Р•РєРѕ
 http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
-#EXTINF:0,Еспресо
+#EXTINF:0,Р•СЃРїСЂРµСЃРѕ
 http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
-#EXTINF:0,Интер
-http://109.68.40.67/life/inter.m3u8
-#EXTINF:0,К1
-http://109.68.40.67/life/k1.m3u8
-#EXTINF:0,К1
-http://178.165.79.37:34040/udp/239.2.1.02:1234
-#EXTINF:0,К2
+#EXTINF:0,Рљ2
 http://178.165.79.37:34040/udp/239.2.1.03:1234
-#EXTINF:0,КРТ
+#EXTINF:0,РљР Рў
 http://91.196.149.76/krt/stream.m3u8
-#EXTINF:0,Киев
+#EXTINF:0,РљРёРµРІ
 http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
-#EXTINF:0,М2
-http://live.m2.tv/hls/stream.m3u8
-#EXTINF:0,НТК
-http://37.194.139.12:81/udp/239.1.15.3:1234
-#EXTINF:0,НТН
+#EXTINF:0,РќРўРќ
 http://109.68.40.67/life/ntn.m3u8
-#EXTINF:0,Надiя
+#EXTINF:0,РќР°РґiСЏ
 http://stream.hope.ua/hopeua/live_1/playlist.m3u8
-#EXTINF:0,Первый деловой
+#EXTINF:0,РџРµСЂРІС‹Р№ РґРµР»РѕРІРѕР№
 http://94.158.80.101:8080/firstbuisness/stream.m3u8
-#EXTINF:0,Перший
+#EXTINF:0,РџРµСЂС€РёР№
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
-#EXTINF:0,Рада
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8
-#EXTINF:0,Рада
-http://94.158.80.101:8080/rada/stream.m3u8
-#EXTINF:0,Рада
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8
-#EXTINF:0,Спорт 1
-http://37.194.139.12:81/udp/239.1.12.7:1234
-#EXTINF:0,Украина
-http://178.165.79.37:34040/udp/239.2.1.12:1234
-#EXTINF:0,ЧП.INFO
+#EXTINF:0,Р§Рџ.INFO
 http://91.196.149.76/chepeinfo/stream.m3u8
-#EXTINF:0,ЧП.INFO
-http://94.158.80.101:8080/chepeinfo/stream.m3u8
