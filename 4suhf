@@ -17,7 +17,7 @@ set -eu
 # Where should we do our work? Use 'WORKDIR=' to make a temporary directory,
 # but using a persistent location may let us resume interrupted downloads or
 # run again without needing to download a second time.
-WORKDIR=${WORKDIR:-/home/chronos/user/tmp.crosrec}
+WORKDIR=${WORKDIR:-/home/tmp.crosrec}
 
 # Where do we look for the config file? We can override this for debugging by
 # specifying "--config URL" on the command line, but curl and wget may handle
